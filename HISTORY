@@ -1,0 +1,16 @@
+
+Oct 30, 2014  marchon   added package to make installation easier
+                        no core modifications, only 
+                        - README 
+                        - HISTORY
+                        - DESCRIPTIONS
+                        - REFERENCE 
+                            * PlanarUniversalGeometry.pdf
+                            * Trigonometry-The-Study-Of-Circles.pdf
+                            * Universal-Hyperbolic-Geometry-I-Trigonometry.pdf
+                            * Universal-Hyperbolic-Geometry-II-A-pictorial-overview.pdf
+                            * Universal-Hyperbolic-Geometry-Summary-of-NJWildbergers-online-lecture-series.pdf
+                            * WhyEllipsesAreNotEllipticCurves.pdf
+                          
+Jun  7, 2012  timleslie uploaded pygeom to github on 
+
