@@ -3,7 +3,9 @@
 import os
 import sys
 
-import pygeom
+import pygeom 
+from pygeom import version 
+
 
 from codecs import open
 
@@ -29,7 +31,7 @@ with open('HISTORY', 'r', 'utf-8') as f:
 
 setup(
     name='pygeom',
-    version=pygeom.__version__,
+    version=version.__version__,
     description='a Python package for performing calculations in planar universal geometry',
     long_description=readme + '\n\n' + history,
     author='Tim Leslie',
