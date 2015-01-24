@@ -3,7 +3,7 @@ import pylab
 from numpy import zeros
 
 from pygeom.field import FiniteField
-from pygeom.point import Line
+from pygeom.core import Line
 
 f = FiniteField
 f.base = 13
